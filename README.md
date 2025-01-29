@@ -1,7 +1,7 @@
-Zabbix 3.2 Dell Compellent
+Zabbix 7.0 Dell Compellent
 ==========================
 
-This template (Template Dell Compellent) use the COMPELLENT-MIB to discover and manage COMPELLENT Storage Array in Zabbix 3.2.
+This template (Template Dell Compellent) use the COMPELLENT-MIB to discover and manage COMPELLENT Storage Array in Zabbix 7.0.
 
 Original Zabbix 2.x Template is avialable here: [jjmartres/Zabbix](https://github.com/jjmartres/Zabbix/tree/master/zbx-templates/zbx-dell-compellent)
 
@@ -30,7 +30,7 @@ Installation
 
 ### Requirements
 
-This template was tested for Zabbix 3.2 and higher.
+This template was tested for Zabbix 7.0 and higher.
 This template was tested for Compellent Storage Center version 6.6.5 and higher.
 
 License
@@ -42,11 +42,13 @@ This template is distributed under the terms of the GNU General Public License a
 
   * Copyright (c) Jean-Jacques Martrès
   * Copyright 2015 Andrea Sosso Licensed under the MIT License
+  * Copyright 2024 Pawel Salkiewicz under the MIT License
 
 ### Authors
 
   * Jean-Jacques Martrès (jjmartres |at| gmail |dot| com)
   * Andrea Sosso @asosso
+  * Pawel Salkiewicz (ps |at| twitter |dot| pl)
 
 ### Contribute
 
